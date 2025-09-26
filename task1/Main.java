@@ -12,7 +12,7 @@ class Main{
    //1.i - set rank number of team in 1.g
     t.setRank(6);
 
-    System.out.println(t.toString());
+    System.out.println(t);
 
     //1.k - 5 more team instances printed with toString() method
     Team t1 = new Team("Los Santos");

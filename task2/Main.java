@@ -14,7 +14,7 @@ class Main{
 
 
   //2.e - print the name of the user in a greeting & age input ask
-  System.out.println("Hello"+ name + "\n Please type your age");	
+  System.out.println("Hello "+ name + "\n Please type your age");	
   
   //2.f - declare age variable and get input
   int age = scan.nextInt();
